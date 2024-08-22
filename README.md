@@ -11,7 +11,7 @@ I made this because I got tired of Google changing their logo all the time for "
   <img src="Screenshots/google-doogle-after.png" style="width: 100px">
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-direction: row;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-direction: row; width: 100%">
   <div style="flex: 1; text-align: center;">
     <h3>Before: </h3>
     <img src="Screenshots/google-doogle-before.png" width="300"/>
