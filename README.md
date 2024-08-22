@@ -10,3 +10,14 @@ I made this because I got tired of Google changing their logo all the time for "
   <img src="Screenshots/google-doogle-before.png" style="width: 100px">
   <img src="Screenshots/google-doogle-after.png" style="width: 100px">
 </div>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="flex: 1; text-align: center;">
+    <h3>Before: </h3>
+    <img src="Screenshots/google-doogle-before.png" width="300"/>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <h3>After: </h3>
+    <img src="Screenshots/google-doogle-after.png" width="300"/>
+  </div>
+</div>
